@@ -1,0 +1,9 @@
+15::Pride and Prejudice::Jane Austen::1813::Bloomsbury::false::
+23::Nineteen Eighty-Four::George Orwell::1949::Pegasus::false::
+42::The Hitchhiker's Guide to the Galaxy::Douglas Adams::1979::Bloomsbury::false::
+43::The War of The Worlds::H.G. Wells::1898::Pegasus::false::
+44::test::auhtor::12000::Pegasus::false::
+45::save::save::4003::Bloomsbury::false::
+46::hidden::hidden::hidden::hidden::true::
+47::Presentation::Dragos::2024::Bloomsbury::false::
+48::test1::test1::test1::test1::false::
